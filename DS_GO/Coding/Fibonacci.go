@@ -26,4 +26,5 @@ func main() {
 	fmt.Println("This is Fibonacci series:")
 	myList := FibSlice{}
 	myList.fib(9)
+	myList.fib(13)
 }
